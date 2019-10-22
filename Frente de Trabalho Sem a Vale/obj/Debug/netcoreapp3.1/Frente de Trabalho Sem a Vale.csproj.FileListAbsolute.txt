@@ -1,0 +1,124 @@
+C:\Users\jbazzoli\source\repos\Frente de Trabalho Sem a Vale\Frente de Trabalho Sem a Vale\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\jbazzoli\source\repos\Frente de Trabalho Sem a Vale\Frente de Trabalho Sem a Vale\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\jbazzoli\source\repos\Frente de Trabalho Sem a Vale\Frente de Trabalho Sem a Vale\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\jbazzoli\source\repos\Frente de Trabalho Sem a Vale\Frente de Trabalho Sem a Vale\bin\Debug\netcoreapp3.1\Frente de Trabalho Sem a Vale.exe
+C:\Users\jbazzoli\source\repos\Frente de Trabalho Sem a Vale\Frente de Trabalho Sem a Vale\bin\Debug\netcoreapp3.1\Frente de Trabalho Sem a Vale.deps.json
+C:\Users\jbazzoli\source\repos\Frente de Trabalho Sem a Vale\Frente de Trabalho Sem a Vale\bin\Debug\netcoreapp3.1\Frente de Trabalho Sem a Vale.runtimeconfig.json
+C:\Users\jbazzoli\source\repos\Frente de Trabalho Sem a Vale\Frente de Trabalho Sem a Vale\bin\Debug\netcoreapp3.1\Frente de Trabalho Sem a Vale.runtimeconfig.dev.json
+C:\Users\jbazzoli\source\repos\Frente de Trabalho Sem a Vale\Frente de Trabalho Sem a Vale\bin\Debug\netcoreapp3.1\Frente de Trabalho Sem a Vale.dll
+C:\Users\jbazzoli\source\repos\Frente de Trabalho Sem a Vale\Frente de Trabalho Sem a Vale\bin\Debug\netcoreapp3.1\Frente de Trabalho Sem a Vale.pdb
+C:\Users\jbazzoli\source\repos\Frente de Trabalho Sem a Vale\Frente de Trabalho Sem a Vale\bin\Debug\netcoreapp3.1\Frente de Trabalho Sem a Vale.Views.dll
+C:\Users\jbazzoli\source\repos\Frente de Trabalho Sem a Vale\Frente de Trabalho Sem a Vale\bin\Debug\netcoreapp3.1\Frente de Trabalho Sem a Vale.Views.pdb
+C:\Users\jbazzoli\source\repos\Frente de Trabalho Sem a Vale\Frente de Trabalho Sem a Vale\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\jbazzoli\source\repos\Frente de Trabalho Sem a Vale\Frente de Trabalho Sem a Vale\obj\Debug\netcoreapp3.1\Frente de Trabalho Sem a Vale.csprojAssemblyReference.cache
+C:\Users\jbazzoli\source\repos\Frente de Trabalho Sem a Vale\Frente de Trabalho Sem a Vale\obj\Debug\netcoreapp3.1\staticwebassets\Frente de Trabalho Sem a Vale.StaticWebAssets.Manifest.cache
+C:\Users\jbazzoli\source\repos\Frente de Trabalho Sem a Vale\Frente de Trabalho Sem a Vale\obj\Debug\netcoreapp3.1\staticwebassets\Frente de Trabalho Sem a Vale.StaticWebAssets.xml
+C:\Users\jbazzoli\source\repos\Frente de Trabalho Sem a Vale\Frente de Trabalho Sem a Vale\obj\Debug\netcoreapp3.1\Frente de Trabalho Sem a Vale.RazorComponent.input.cache
+C:\Users\jbazzoli\source\repos\Frente de Trabalho Sem a Vale\Frente de Trabalho Sem a Vale\obj\Debug\netcoreapp3.1\RazorDeclaration\App.razor.g.cs
+C:\Users\jbazzoli\source\repos\Frente de Trabalho Sem a Vale\Frente de Trabalho Sem a Vale\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\Counter.razor.g.cs
+C:\Users\jbazzoli\source\repos\Frente de Trabalho Sem a Vale\Frente de Trabalho Sem a Vale\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\Error.razor.g.cs
+C:\Users\jbazzoli\source\repos\Frente de Trabalho Sem a Vale\Frente de Trabalho Sem a Vale\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\FetchData.razor.g.cs
+C:\Users\jbazzoli\source\repos\Frente de Trabalho Sem a Vale\Frente de Trabalho Sem a Vale\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\Index.razor.g.cs
+C:\Users\jbazzoli\source\repos\Frente de Trabalho Sem a Vale\Frente de Trabalho Sem a Vale\obj\Debug\netcoreapp3.1\RazorDeclaration\Shared\MainLayout.razor.g.cs
+C:\Users\jbazzoli\source\repos\Frente de Trabalho Sem a Vale\Frente de Trabalho Sem a Vale\obj\Debug\netcoreapp3.1\RazorDeclaration\Shared\NavMenu.razor.g.cs
+C:\Users\jbazzoli\source\repos\Frente de Trabalho Sem a Vale\Frente de Trabalho Sem a Vale\obj\Debug\netcoreapp3.1\RazorDeclaration\_Imports.razor.g.cs
+C:\Users\jbazzoli\source\repos\Frente de Trabalho Sem a Vale\Frente de Trabalho Sem a Vale\obj\Debug\netcoreapp3.1\Frente de Trabalho Sem a Vale.TagHelpers.input.cache
+C:\Users\jbazzoli\source\repos\Frente de Trabalho Sem a Vale\Frente de Trabalho Sem a Vale\obj\Debug\netcoreapp3.1\Frente de Trabalho Sem a Vale.TagHelpers.output.cache
+C:\Users\jbazzoli\source\repos\Frente de Trabalho Sem a Vale\Frente de Trabalho Sem a Vale\obj\Debug\netcoreapp3.1\Frente de Trabalho Sem a Vale.RazorCoreGenerate.cache
+C:\Users\jbazzoli\source\repos\Frente de Trabalho Sem a Vale\Frente de Trabalho Sem a Vale\obj\Debug\netcoreapp3.1\Razor\Pages\_Host.cshtml.g.cs
+C:\Users\jbazzoli\source\repos\Frente de Trabalho Sem a Vale\Frente de Trabalho Sem a Vale\obj\Debug\netcoreapp3.1\Frente de Trabalho Sem a Vale.RazorAssemblyInfo.cache
+C:\Users\jbazzoli\source\repos\Frente de Trabalho Sem a Vale\Frente de Trabalho Sem a Vale\obj\Debug\netcoreapp3.1\Frente de Trabalho Sem a Vale.RazorAssemblyInfo.cs
+C:\Users\jbazzoli\source\repos\Frente de Trabalho Sem a Vale\Frente de Trabalho Sem a Vale\obj\Debug\netcoreapp3.1\Frente de Trabalho Sem a Vale.AssemblyInfoInputs.cache
+C:\Users\jbazzoli\source\repos\Frente de Trabalho Sem a Vale\Frente de Trabalho Sem a Vale\obj\Debug\netcoreapp3.1\Frente de Trabalho Sem a Vale.AssemblyInfo.cs
+C:\Users\jbazzoli\source\repos\Frente de Trabalho Sem a Vale\Frente de Trabalho Sem a Vale\obj\Debug\netcoreapp3.1\Frente de Trabalho Sem a Vale.RazorTargetAssemblyInfo.cache
+C:\Users\jbazzoli\source\repos\Frente de Trabalho Sem a Vale\Frente de Trabalho Sem a Vale\obj\Debug\netcoreapp3.1\Frente de Trabalho Sem a Vale.RazorTargetAssemblyInfo.cs
+C:\Users\jbazzoli\source\repos\Frente de Trabalho Sem a Vale\Frente de Trabalho Sem a Vale\obj\Debug\netcoreapp3.1\Frente de Trabalho Sem a Vale.Views.pdb
+C:\Users\jbazzoli\source\repos\Frente de Trabalho Sem a Vale\Frente de Trabalho Sem a Vale\obj\Debug\netcoreapp3.1\Frente de Trabalho Sem a Vale.csproj.CopyComplete
+C:\Users\jbazzoli\source\repos\Frente de Trabalho Sem a Vale\Frente de Trabalho Sem a Vale\obj\Debug\netcoreapp3.1\Frente de Trabalho Sem a Vale.dll
+C:\Users\jbazzoli\source\repos\Frente de Trabalho Sem a Vale\Frente de Trabalho Sem a Vale\obj\Debug\netcoreapp3.1\Frente de Trabalho Sem a Vale.pdb
+C:\Users\jbazzoli\source\repos\Frente de Trabalho Sem a Vale\Frente de Trabalho Sem a Vale\bin\Debug\netcoreapp3.1\ModelShared.dll
+C:\Users\jbazzoli\source\repos\Frente de Trabalho Sem a Vale\Frente de Trabalho Sem a Vale\bin\Debug\netcoreapp3.1\ModelShared.pdb
+C:\Users\jbazzoli\source\repos\Frente de Trabalho Sem a Vale\Frente de Trabalho Sem a Vale\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\jbazzoli\source\repos\Frente de Trabalho Sem a Vale\Frente de Trabalho Sem a Vale\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\jbazzoli\source\repos\Frente de Trabalho Sem a Vale\Frente de Trabalho Sem a Vale\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\jbazzoli\source\repos\Frente de Trabalho Sem a Vale\Frente de Trabalho Sem a Vale\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\jbazzoli\source\repos\Frente de Trabalho Sem a Vale\Frente de Trabalho Sem a Vale\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\jbazzoli\source\repos\Frente de Trabalho Sem a Vale\Frente de Trabalho Sem a Vale\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\jbazzoli\source\repos\Frente de Trabalho Sem a Vale\Frente de Trabalho Sem a Vale\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\jbazzoli\source\repos\Frente de Trabalho Sem a Vale\Frente de Trabalho Sem a Vale\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\jbazzoli\source\repos\Frente de Trabalho Sem a Vale\Frente de Trabalho Sem a Vale\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\jbazzoli\source\repos\Frente de Trabalho Sem a Vale\Frente de Trabalho Sem a Vale\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\jbazzoli\source\repos\Frente de Trabalho Sem a Vale\Frente de Trabalho Sem a Vale\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\jbazzoli\source\repos\Frente de Trabalho Sem a Vale\Frente de Trabalho Sem a Vale\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\jbazzoli\source\repos\Frente de Trabalho Sem a Vale\Frente de Trabalho Sem a Vale\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\jbazzoli\source\repos\Frente de Trabalho Sem a Vale\Frente de Trabalho Sem a Vale\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\jbazzoli\source\repos\Frente de Trabalho Sem a Vale\Frente de Trabalho Sem a Vale\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\jbazzoli\source\repos\Frente de Trabalho Sem a Vale\Frente de Trabalho Sem a Vale\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\jbazzoli\source\repos\Frente de Trabalho Sem a Vale\Frente de Trabalho Sem a Vale\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\jbazzoli\source\repos\Frente de Trabalho Sem a Vale\Frente de Trabalho Sem a Vale\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\jbazzoli\source\repos\Frente de Trabalho Sem a Vale\Frente de Trabalho Sem a Vale\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\jbazzoli\source\repos\Frente de Trabalho Sem a Vale\Frente de Trabalho Sem a Vale\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\jbazzoli\source\repos\Frente de Trabalho Sem a Vale\Frente de Trabalho Sem a Vale\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\jbazzoli\source\repos\Frente de Trabalho Sem a Vale\Frente de Trabalho Sem a Vale\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\jbazzoli\source\repos\Frente de Trabalho Sem a Vale\Frente de Trabalho Sem a Vale\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\jbazzoli\source\repos\Frente de Trabalho Sem a Vale\Frente de Trabalho Sem a Vale\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\jbazzoli\source\repos\Frente de Trabalho Sem a Vale\Frente de Trabalho Sem a Vale\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\jbazzoli\source\repos\Frente de Trabalho Sem a Vale\Frente de Trabalho Sem a Vale\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\jbazzoli\source\repos\Frente de Trabalho Sem a Vale\Frente de Trabalho Sem a Vale\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\jbazzoli\source\repos\Frente de Trabalho Sem a Vale\Frente de Trabalho Sem a Vale\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\jbazzoli\source\repos\Frente de Trabalho Sem a Vale\Frente de Trabalho Sem a Vale\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\jbazzoli\source\repos\Frente de Trabalho Sem a Vale\Frente de Trabalho Sem a Vale\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\jbazzoli\source\repos\Frente de Trabalho Sem a Vale\Frente de Trabalho Sem a Vale\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\jbazzoli\source\repos\Frente de Trabalho Sem a Vale\Frente de Trabalho Sem a Vale\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\jbazzoli\source\repos\Frente de Trabalho Sem a Vale\Frente de Trabalho Sem a Vale\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\jbazzoli\source\repos\Frente de Trabalho Sem a Vale\Frente de Trabalho Sem a Vale\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\jbazzoli\source\repos\Frente de Trabalho Sem a Vale\Frente de Trabalho Sem a Vale\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\jbazzoli\source\repos\Frente de Trabalho Sem a Vale\Frente de Trabalho Sem a Vale\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\jbazzoli\source\repos\Frente de Trabalho Sem a Vale\Frente de Trabalho Sem a Vale\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\jbazzoli\source\repos\Frente de Trabalho Sem a Vale\Frente de Trabalho Sem a Vale\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\jbazzoli\source\repos\Frente de Trabalho Sem a Vale\Frente de Trabalho Sem a Vale\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\jbazzoli\source\repos\Frente de Trabalho Sem a Vale\Frente de Trabalho Sem a Vale\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\jbazzoli\source\repos\Frente de Trabalho Sem a Vale\Frente de Trabalho Sem a Vale\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\jbazzoli\source\repos\Frente de Trabalho Sem a Vale\Frente de Trabalho Sem a Vale\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\jbazzoli\source\repos\Frente de Trabalho Sem a Vale\Frente de Trabalho Sem a Vale\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\jbazzoli\source\repos\Frente de Trabalho Sem a Vale\Frente de Trabalho Sem a Vale\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\jbazzoli\source\repos\Frente de Trabalho Sem a Vale\Frente de Trabalho Sem a Vale\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\jbazzoli\source\repos\Frente de Trabalho Sem a Vale\Frente de Trabalho Sem a Vale\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\jbazzoli\source\repos\Frente de Trabalho Sem a Vale\Frente de Trabalho Sem a Vale\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\jbazzoli\source\repos\Frente de Trabalho Sem a Vale\Frente de Trabalho Sem a Vale\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\jbazzoli\source\repos\Frente de Trabalho Sem a Vale\Frente de Trabalho Sem a Vale\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\jbazzoli\source\repos\Frente de Trabalho Sem a Vale\Frente de Trabalho Sem a Vale\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\jbazzoli\source\repos\Frente de Trabalho Sem a Vale\Frente de Trabalho Sem a Vale\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\jbazzoli\source\repos\Frente de Trabalho Sem a Vale\Frente de Trabalho Sem a Vale\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\jbazzoli\source\repos\Frente de Trabalho Sem a Vale\Frente de Trabalho Sem a Vale\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\jbazzoli\source\repos\Frente de Trabalho Sem a Vale\Frente de Trabalho Sem a Vale\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\jbazzoli\source\repos\Frente de Trabalho Sem a Vale\Frente de Trabalho Sem a Vale\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\jbazzoli\source\repos\Frente de Trabalho Sem a Vale\Frente de Trabalho Sem a Vale\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\jbazzoli\source\repos\Frente de Trabalho Sem a Vale\Frente de Trabalho Sem a Vale\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\jbazzoli\source\repos\Frente de Trabalho Sem a Vale\Frente de Trabalho Sem a Vale\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\jbazzoli\source\repos\Frente de Trabalho Sem a Vale\Frente de Trabalho Sem a Vale\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\jbazzoli\source\repos\Frente de Trabalho Sem a Vale\Frente de Trabalho Sem a Vale\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\jbazzoli\source\repos\Frente de Trabalho Sem a Vale\Frente de Trabalho Sem a Vale\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\jbazzoli\source\repos\Frente de Trabalho Sem a Vale\Frente de Trabalho Sem a Vale\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\jbazzoli\source\repos\Frente de Trabalho Sem a Vale\Frente de Trabalho Sem a Vale\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\jbazzoli\source\repos\Frente de Trabalho Sem a Vale\Frente de Trabalho Sem a Vale\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\jbazzoli\source\repos\Frente de Trabalho Sem a Vale\Frente de Trabalho Sem a Vale\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\jbazzoli\source\repos\Frente de Trabalho Sem a Vale\Frente de Trabalho Sem a Vale\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\jbazzoli\source\repos\Frente de Trabalho Sem a Vale\Frente de Trabalho Sem a Vale\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\jbazzoli\source\repos\Frente de Trabalho Sem a Vale\Frente de Trabalho Sem a Vale\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\jbazzoli\source\repos\Frente de Trabalho Sem a Vale\Frente de Trabalho Sem a Vale\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\jbazzoli\source\repos\Frente de Trabalho Sem a Vale\Frente de Trabalho Sem a Vale\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\jbazzoli\source\repos\Frente de Trabalho Sem a Vale\Frente de Trabalho Sem a Vale\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\jbazzoli\source\repos\Frente de Trabalho Sem a Vale\Frente de Trabalho Sem a Vale\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\jbazzoli\source\repos\Frente de Trabalho Sem a Vale\Frente de Trabalho Sem a Vale\obj\Debug\netcoreapp3.1\Frente de Trabalho Sem a Vale.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\jbazzoli\source\repos\Frente de Trabalho Sem a Vale\Frente de Trabalho Sem a Vale\obj\Debug\netcoreapp3.1\RazorDeclaration\Frente de Trabalho Sem a Vale.dll
+C:\Users\jbazzoli\source\repos\Frente de Trabalho Sem a Vale\Frente de Trabalho Sem a Vale\obj\Debug\netcoreapp3.1\Razor\App.razor.g.cs
+C:\Users\jbazzoli\source\repos\Frente de Trabalho Sem a Vale\Frente de Trabalho Sem a Vale\obj\Debug\netcoreapp3.1\Razor\Pages\Counter.razor.g.cs
+C:\Users\jbazzoli\source\repos\Frente de Trabalho Sem a Vale\Frente de Trabalho Sem a Vale\obj\Debug\netcoreapp3.1\Razor\Pages\Error.razor.g.cs
+C:\Users\jbazzoli\source\repos\Frente de Trabalho Sem a Vale\Frente de Trabalho Sem a Vale\obj\Debug\netcoreapp3.1\Razor\Pages\FetchData.razor.g.cs
+C:\Users\jbazzoli\source\repos\Frente de Trabalho Sem a Vale\Frente de Trabalho Sem a Vale\obj\Debug\netcoreapp3.1\Razor\Pages\Index.razor.g.cs
+C:\Users\jbazzoli\source\repos\Frente de Trabalho Sem a Vale\Frente de Trabalho Sem a Vale\obj\Debug\netcoreapp3.1\Razor\Shared\MainLayout.razor.g.cs
+C:\Users\jbazzoli\source\repos\Frente de Trabalho Sem a Vale\Frente de Trabalho Sem a Vale\obj\Debug\netcoreapp3.1\Razor\Shared\NavMenu.razor.g.cs
+C:\Users\jbazzoli\source\repos\Frente de Trabalho Sem a Vale\Frente de Trabalho Sem a Vale\obj\Debug\netcoreapp3.1\Razor\_Imports.razor.g.cs
+C:\Users\jbazzoli\source\repos\Frente de Trabalho Sem a Vale\Frente de Trabalho Sem a Vale\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\Persons.razor.g.cs
+C:\Users\jbazzoli\source\repos\Frente de Trabalho Sem a Vale\Frente de Trabalho Sem a Vale\obj\Debug\netcoreapp3.1\Razor\Pages\Persons.razor.g.cs

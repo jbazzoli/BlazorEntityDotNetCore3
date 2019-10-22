@@ -1,0 +1,51 @@
+﻿@page "/Persons"
+
+@using Frente_de_Trabalho_Sem_a_Vale.Data
+@using ModelShared
+
+@inject PersonService personService
+
+<h1>Person List</h1>
+
+<p>This component demonstrate the people in company</p>
+
+@if (persons == null)
+{
+    <p><em>Loading...</em></p>
+}
+else
+{
+    <table class="table">
+        <thead>
+            <tr>
+                <th>Name</th>
+                <th>Surname</th>
+                <th>Birthday</th>
+               
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var person in persons)
+            {
+                <tr>
+
+                    <td>@person.name</td>
+                    <td>@person.surname</td>
+                    <td>@person.birthDay</td>
+                   
+                </tr>
+            }
+        </tbody>
+    </table>
+}
+
+@code {
+
+    private Person[]
+      persons = null;
+
+    protected override async Task OnInitializedAsync()
+    {
+        persons = await personService.GetPersonsAsync();
+    }
+}

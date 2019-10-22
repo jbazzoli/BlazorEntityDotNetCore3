@@ -1,0 +1,7 @@
+C:\Users\jbazzoli\source\repos\Frente de Trabalho Sem a Vale\Shared\bin\Debug\netcoreapp3.1\ModelShared.deps.json
+C:\Users\jbazzoli\source\repos\Frente de Trabalho Sem a Vale\Shared\bin\Debug\netcoreapp3.1\ModelShared.dll
+C:\Users\jbazzoli\source\repos\Frente de Trabalho Sem a Vale\Shared\bin\Debug\netcoreapp3.1\ModelShared.pdb
+C:\Users\jbazzoli\source\repos\Frente de Trabalho Sem a Vale\Shared\obj\Debug\netcoreapp3.1\ModelShared.AssemblyInfoInputs.cache
+C:\Users\jbazzoli\source\repos\Frente de Trabalho Sem a Vale\Shared\obj\Debug\netcoreapp3.1\ModelShared.AssemblyInfo.cs
+C:\Users\jbazzoli\source\repos\Frente de Trabalho Sem a Vale\Shared\obj\Debug\netcoreapp3.1\ModelShared.dll
+C:\Users\jbazzoli\source\repos\Frente de Trabalho Sem a Vale\Shared\obj\Debug\netcoreapp3.1\ModelShared.pdb
